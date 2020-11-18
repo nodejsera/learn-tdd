@@ -1,0 +1,23 @@
+{
+  "name": "learn-tdd",
+  "version": "1.0.0",
+  "description": "Learning TDD from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejsera/learn-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodejsera/learn-tdd/issues"
+  },
+  "homepage": "https://github.com/nodejsera/learn-tdd#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
